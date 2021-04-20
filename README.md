@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gauravwalvekar@gmail.com
+- 📫 How to reach me gauravwalvekarr@gmail.com
 
 <!---
 Gaurav-R-Walvekar/Gaurav-R-Walvekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
