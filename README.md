@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav-R-Walvekar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ML
+- 👀 I’m interested Programming
+- 🌱 I’m currently learning Machine learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gauravwalvekarr@gmail.com
 
